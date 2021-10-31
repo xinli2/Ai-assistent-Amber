@@ -10,9 +10,9 @@ import requests
 import json
 
 # Baidu Speech API, replace with your personal key
-APP_ID = '25017731'
-API_KEY = '8N0omob2lG2lb9RcBYdFhGY6'
-SECRET_KEY = 'VXacZAmt3l5GbXQ4jBrcH1u2eX7UbKU3'
+APP_ID = '#######'
+API_KEY = '######'
+SECRET_KEY = '######'
 
 client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
 
